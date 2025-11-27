@@ -42,7 +42,7 @@ Sistema de gestão bibliográfica desenvolvido com PHP e MySQL, oferecendo uma i
 ## 📁 Estrutura do Projeto
 
 ```
-trabalho berg/
+salao_beleza/
 │
 ├── index.php                 # Página principal e roteamento
 ├── config.php                # Configuração de conexão com banco de dados
@@ -104,7 +104,7 @@ trabalho berg/
 
 1. **Clone ou baixe o projeto** para a pasta `htdocs` do XAMPP:
    ```
-   C:\xampp\htdocs\trabalho berg\
+   C:\xampp\htdocs\trabalho \
    ```
 
 2. **Configure o banco de dados**:
@@ -118,11 +118,11 @@ trabalho berg/
    define('DB_USER', 'root');
    define('DB_PASS', ''); // Sua senha do MySQL
    define('DB_PORT', 3307); // Porta do MySQL
-   define('DB_NAME', 'trabalhoberg');
+   define('DB_NAME', 'salao_beleza');
    ```
 
 4. **Acesse o sistema**:
-   - Abra no navegador: `http://localhost/trabalho berg/`
+   - Abra no navegador: `http://localhost/trabalho /`
 
 ---
 
